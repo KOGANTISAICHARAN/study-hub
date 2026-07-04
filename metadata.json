@@ -1,0 +1,6 @@
+{
+  "name": "Study Hub",
+  "description": "An ultimate neubrutalist student workspace featuring a timetable maker, AI study pack generator, exportable roadmaps, collaborative circles, Pomodoro timer, and an internship finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
